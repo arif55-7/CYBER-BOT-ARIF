@@ -1,4 +1,4 @@
-name: name: ARIF.js CI
+name: ARIF.js CI
 
 on:
   push:
